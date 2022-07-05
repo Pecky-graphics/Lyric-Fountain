@@ -589,7 +589,9 @@ hr{
     }
     .top-img{
        Left:15%;
-Top:3%;
+Top:2%;
+Width:400px;
+Height:400px;
     }
     .footer-img{
         width:150px;
