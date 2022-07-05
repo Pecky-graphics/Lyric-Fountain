@@ -6,8 +6,12 @@
 html{
     color:black;
     font-size:1em;
+    max-width: 100%;
+    overflow: hidden;
 }
 body{
+    max-width: 100%;
+    overflow: hidden;
 }
 .top-body{
     
