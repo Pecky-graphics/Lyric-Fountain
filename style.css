@@ -579,7 +579,7 @@ hr{
     
     .top-body{
     background:rgba(0,0,0,0.8) url(headset.jpg);
-    background-size: 480px;
+    background-size: 520px;
     background-blend-mode: darken;
     background-repeat: no-repeat;
     height:70vh;
@@ -588,7 +588,9 @@ hr{
         width:50%;
     }
     .top-img{
-       padding-top: 150px;
+       align-items:center;
+Justify-items:center;
+align-content:center;
 
     }
     .footer-img{
