@@ -588,8 +588,9 @@ hr{
         width:50%;
     }
     .top-img{
-       Left:10%;
-Top:0.5%;
+       Left:7%;
+Top:0.1%
+Bottom:89%;
 Width:400px;
 Height:400px;
     }
