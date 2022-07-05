@@ -579,7 +579,7 @@ hr{
     
     .top-body{
     background:rgba(0,0,0,0.8) url(headset.jpg);
-    background-size: 520px;
+    background-size: 540px;
     background-blend-mode: darken;
     background-repeat: no-repeat;
     height:70vh;
@@ -612,7 +612,7 @@ align-content:center;
         width: 50%;
     }
     .comment-box textarea{
-        width:50%;
+        width:0%;
     }
     .comment-box button{
         width: 50%;
