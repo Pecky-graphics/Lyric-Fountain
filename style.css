@@ -617,7 +617,16 @@ Margin-left:10px;
     right: calc(40%);
     
 }
-  
+
+    .comment-box input{
+        width: 50%;
+    }
+    .comment-box textarea{
+        width:0%;
+    }
+    .comment-box button{
+        width: 50%;
+    }
 }
 
 
