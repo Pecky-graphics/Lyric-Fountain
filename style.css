@@ -589,7 +589,6 @@ hr{
     .top-body{
     background:rgba(0,0,0,0.8) url(headset.jpg);
     background-size: 570px;
-Background-size:cover;
     background-blend-mode: darken;
     background-repeat: no-repeat;
     height:70vh;
