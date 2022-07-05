@@ -431,8 +431,9 @@ hr{
     }
     .footer{
         display: block;
-        height:120vh;
-        padding: 20px;
+        height:80vh;
+        padding-left: 20px;
+        
     }
     .footer-text{
         padding: 0px;
@@ -440,7 +441,7 @@ hr{
     
     .top-body{
     background:rgba(0,0,0,0.8) url(headset.jpg);
-    background-size: 480px;
+    background-size: 570px;
     background-blend-mode: darken;
     background-repeat: no-repeat;
     height:70vh;
@@ -448,10 +449,33 @@ hr{
     .menu-wrap .menu{
         width:50%;
     }
-}
+    .top-img{
+       Left:10%;
+Width:200px;
+    }
+    .footer-img{
+        width:150px;
+        padding-left: 50px;
+    }
+    .comment-box{
+        padding-left: 0px;
+    }
+    .footer-img img{
+    width:200px;
+    height:150px;
+    border-radius: 45%;
+    position:absolute;
+    right: calc(40%);
     
-.comment box{
-    
 }
+    .comment-box input{
+        width: 50%;
+    }
+    .comment-box textarea{
+        width:0%;
+    }
+    .comment-box button{
+        width: 50%;
+    }
 
 
