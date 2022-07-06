@@ -6,13 +6,13 @@
 html{
     color:black;
     font-size:1em;
-  
+  max-width:100%;
+overflow:hidden;
 }
 body{
     max-width: 100%;
     overflow-x:hidden;
-    margin:0px;
-    padding:0px;
+   
 
 }
 .top-body{
