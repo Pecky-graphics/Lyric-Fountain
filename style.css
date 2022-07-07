@@ -3,7 +3,9 @@
     --overlay-color:#000000;
     --menu-speed:0.75s;
 }
-html,body{
+html{}
+
+body{
     color:black;
     font-size:1em;
 max-width:100%;
