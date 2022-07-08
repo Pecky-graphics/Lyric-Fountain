@@ -3,7 +3,10 @@
     --overlay-color:#000000;
     --menu-speed:0.75s;
 }
-html{}
+html{
+max-width:100%;
+overflow-x:hidden;
+}
 
 body{
     color:black;
