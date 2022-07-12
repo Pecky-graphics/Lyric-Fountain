@@ -622,6 +622,10 @@ Margin-left:10px;
     
 }
 
+    .comment-box textarea{
+        width:0%;
+    }
+
  
 }
 
