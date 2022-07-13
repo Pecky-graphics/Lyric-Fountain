@@ -624,7 +624,7 @@ Margin-left:10px;
 }
 
        .comment-box input{
-        width: 200px;
+        width:50%;
     }
     .comment-box textarea{
         width:0%;
