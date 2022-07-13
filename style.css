@@ -60,6 +60,7 @@ overflow-x:hidden;
     border-radius:5px;
     border:1px solid #777;
     font-size:15px;
+Display:flex;
 }
 .comment-box input:focus{
     border:1px solid #000;
@@ -626,11 +627,8 @@ Margin-left:10px;
         width: 200px;
     }
     .comment-box textarea{
-        width:50px;
+        width:0%;
     }
-.comment-box textarea input{
-Width:100%;
-}
     .comment-box button{
         width:50%;
     }
