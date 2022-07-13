@@ -18,7 +18,7 @@ overflow-x:hidden;
 }
 
 .top-body{
-    
+    text-align:center;
     background:rgba(0,0,0,0.8) url(headset.jpg);
     background-size: 1500px 1000px;
     background-blend-mode: darken;
@@ -30,9 +30,7 @@ overflow-x:hidden;
     width:350px;
     height:350px;
     border-radius: 45%;
-    position:absolute;
-    left: calc(-2%);
-    top:-75px;
+   
 }
 .comment-box{
   width: 500px;
@@ -597,14 +595,10 @@ overflow-x:hidden;
     height:70vh;
     }
     .menu-wrap .menu{
-        width:50%;
+        width:70%;
     }
     .top-img{
-       Left:7%;
-Top:0.3%;
-Bottom:80%;
-Width:400px;
-Height:400px;
+      Width:300px;
     }
     .footer-img{
         width:150px;
