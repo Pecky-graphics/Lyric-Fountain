@@ -623,13 +623,13 @@ Margin-left:10px;
 }
 
        .comment-box input{
-        width: 50%;
+        width: 100px;
     }
     .comment-box textarea{
-        width:0%;
+        width:100px;
     }
     .comment-box button{
-        width: 50%;
+        width:100px;
     }
 
  
